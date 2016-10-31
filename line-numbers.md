@@ -2,7 +2,7 @@
 #### 2
 #### 3 Mr. Cordero wuz here!
 #### 4
-#### 5
+#### 5 collaborator's text
 #### 6
 #### 7
 #### 8
